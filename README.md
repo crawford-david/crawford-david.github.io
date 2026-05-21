@@ -5,15 +5,13 @@
 
 <div align="center">
   <img src="docs/assets/GravGolf/gravgolf_title_banner.png" alt="GravGolf Hero Banner" width="100%">
-
-  # GravGolf
-
-  **A 2D physics-based puzzle game where you use gravity to guide your probe home.**
-
-  [![Godot Engine](https://img.shields.io/badge/Godot_4.5+-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
-
-  <!-- # [Play on Itch.io](#) • [Download Releases](#) -->
 </div>
+
+**A 2D physics-based puzzle game where you use gravity to guide your probe home.**
+
+[![Godot Engine](https://img.shields.io/badge/Godot_4.5+-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
+
+<!-- # [Play on Itch.io](#) • [Download Releases](#) -->
 
 ---
 
