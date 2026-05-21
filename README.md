@@ -16,7 +16,7 @@
 **GravGolf** is a 2D mini-golf style game set in space. Instead of swinging a club, you launch probes into the void, utilizing the gravitational pull of celestial bodies to bend your trajectory and reach the target. 
 
 <div align="center">
-  <video src="./docs/assets/GravGolf/GravGolf level clip.mp4" alt="GravGolf Gameplay Loop" width="80%" autoplay loop muted>
+  <video src="./docs/assets/GravGolf/GravGolf level clip.mp4" alt="GravGolf Gameplay Loop" width="80%" autoplay loop muted />
 </div>
 
 ## ✨ Key Features
