@@ -4,7 +4,7 @@
 # GravGolf
 
 <div align="center">
-  <img src="docs/assets/GravGolf/gravgolf_hero_banner.png" alt="GravGolf Hero Banner" width="100%">
+  <img src="docs/assets/GravGolf/gravgolf_title_banner.png" alt="GravGolf Hero Banner" width="100%">
 
   # GravGolf
 
