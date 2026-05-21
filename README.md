@@ -11,10 +11,6 @@
 
 [![Godot Engine](https://img.shields.io/badge/Godot_4.5+-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 
-<!-- # [Play on Itch.io](#) • [Download Releases](#) -->
-
----
-
 ## 🌌 About The Game
 
 **GravGolf** is a 2D mini-golf style game set in space. Instead of swinging a club, you launch probes into the void, utilizing the gravitational pull of celestial bodies to bend your trajectory and reach the target. 
